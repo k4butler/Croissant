@@ -1,0 +1,29 @@
+a {
+  margin: 0px 10px;
+  color: rgb(0, 86, 173);
+  font-size: 18px;
+}
+body {
+  background-color: #f8e8a6;
+}
+img {
+  max-width: 50%;
+  transform: rotate(90deg);
+  display: block;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+
+h1,
+p,
+.navigate {
+  text-align: center;
+}
+p {
+  margin: 15px auto;
+}
+
+.email {
+  color: rgb(221, 0, 255);
+  margin: 0 auto;
+}
