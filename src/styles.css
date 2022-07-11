@@ -5,13 +5,15 @@ a {
 }
 body {
   background-color: #f8e8a6;
+  max-width: 800px;
+  margin: 0 auto;
 }
 img {
-  max-width: 50%;
-  transform: rotate(90deg);
   display: block;
+  transform: rotate(90deg);
   margin: 0px auto;
   border-radius: 10px;
+  max-width: 50%;
 }
 
 h1,
